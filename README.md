@@ -2,6 +2,13 @@
 
 A simple and responsive personal portfolio website built using HTML and CSS. It showcases my background, skills, projects, and contact details in a clean and easy-to-navigate layout.
 
+Preview:
+
+
+<img width="1866" height="683" alt="image" src="https://github.com/user-attachments/assets/4402c972-5194-4532-a64f-9e3899d80240" />
+
+
+
 ✨ Features
 Clean and simple layout
 Sections for About Me, Skills, Projects, and Contact
